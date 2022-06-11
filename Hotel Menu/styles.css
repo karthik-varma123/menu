@@ -1,0 +1,70 @@
+body {
+  background-color: white;
+}
+
+
+.puffs {
+  position: absolute;
+  left: 400px;
+}
+
+
+.pizzas {
+  position: absolute;
+  left: 400px;
+  top: 500px;
+}
+
+.rolls {
+  position: absolute;
+  left: 1000px;
+}
+
+
+.burgers {
+  position: absolute;
+  left: 1000px;
+  top: 500px;
+}
+
+.noodles {
+  position: absolute;
+  left: 400px;
+  top: 1000px;
+}
+
+
+.cakes {
+  position: absolute;
+  left: 1000px;
+  top: 1000px;
+}
+
+
+
+.soups {
+  position: absolute;
+  left: 1000px;
+  top: 1500px;
+}
+
+
+.drinks {
+  position: absolute;
+  left: 400px;
+  top: 1500px;
+}
+
+
+.starters {
+  position: absolute;
+  left: 1000px;
+  top: 2000px;
+}
+
+
+.Pastries {
+  position: absolute;
+  left: 400px;
+  top: 2000px;
+}
